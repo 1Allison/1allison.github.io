@@ -1,2 +1,5 @@
-I am 1Allison
-Welcome to my blog!
+
+
+
+Welcome to my blog! 
+Nice to meet you :) 
